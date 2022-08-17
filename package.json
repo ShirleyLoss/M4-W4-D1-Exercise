@@ -1,0 +1,23 @@
+{
+  "name": "m4-w4-d1-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^3.6.6",
+    "mongoose": "^5.13.14"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShirleyLoss/M4-W4-D1-Exercise.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ShirleyLoss/M4-W4-D1-Exercise/issues"
+  },
+  "homepage": "https://github.com/ShirleyLoss/M4-W4-D1-Exercise#readme"
+}
